@@ -24,7 +24,7 @@
          <div>    
           	<div class="conteudo-splash">                
                  <br/><br/><br/><br/>                 
-                 <p class="cor-azul"><span>AUDAZ RIO</span><br/>- A Sorte acompanha os Audazes</p>                                
+                 <p class="cor-azul"><span>AUDAZ RIO</span><br/>- A Sorte acompanha os AudazesWWWWWWW</p>                                
                  <i class="a-li fa fa-circle-o-notch fa-spin fa-4x" aria-hidden="true"></i>                         
             </div>        
         </div>
